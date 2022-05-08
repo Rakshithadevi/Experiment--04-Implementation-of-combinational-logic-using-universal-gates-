@@ -26,8 +26,10 @@ Write the detailed procedure here
 ## Program:
 /*
 Program to design a Implementation of combinational logic using universal gates-  and verify its truth table in quartus using Verilog programming.
+```
 Developed by: RAKSHITHA DEVI.J
 RegisterNumber: 212221230082 
+```
 */
 ```
 module combinationallogic(a,b,c,d,p,q,r,s);
